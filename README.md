@@ -1,7 +1,8 @@
 **Instructions:**
 
 
-**    **_To start animating the circle:_**__**
+**    **_To start animating the circle:_**
+
         1. Enter a ****valid value (0 < value < 360)** **in the Jump To textfield (which becomes your multiplicand) and totalpoints textfield(total points on   circle)      
         2. Then Click the play button to begin animating the circle for your given times tables number.
         3. Speed of animation: You can change the speed of the animation by increasing or decreasing the speed slider which is on the right hand side.
@@ -9,18 +10,21 @@
         5. Change Colors: You can change the color of the animation while it is paused, running or when it's completed using the change button.
         6. Reset: Clicking on the reset button will reset the values of all field and return the circle to it's initial state.
 
-**    Jump to your given timetables number directly without animating:**
-        1. Enter a ****valid value (0 < value < 360)**** in the Jump To textfield (which becomes your multiplicand) and totalpoints textfield(total points on   circle) 
-        2. Click jumpto
+
+_**      **Jump to your given timetables number directly without animating:**_
+
+        1. Enter a **valid value (0 < value < 360)** in the Jump To textfield (which becomes your multiplicand) and totalpoints textfield(total points on   circle) 
+        2. Click Jump to
         3. Change Colors: You can change colors by clicking the change button.
         4. Reset : Clicking on the reset button will reset the values of all field and return the circle to it's initial state.
 
-**    **Favourites:**__**
+_**    **Favourites:**_
+
         1. You can toggle between your favourite timetables pictures by scrolling through the favourites combo box which is located in the left-bottom of the screen.
         2. Change Colors: You can also change colors of your favourite Times tables pictures.
         3. Reset: Clicking on the reset button will reset the values of all field and return the circle to it's initial state.
 
-**    **Increment slide:**__**
+_**    **Increment slide:**_
 
         1. **Make Sure: 
             - The increment slide is greater than zero
