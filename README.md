@@ -6,7 +6,7 @@
         1. Enter a ****valid value (0 < value < 360)** **in the Jump To textfield (which becomes your multiplicand) and totalpoints textfield(total points on   circle)      
         2. Then Click the play button to begin animating the circle for your given times tables number.
         3. Speed of animation: You can change the speed of the animation by increasing or decreasing the speed slider which is on the right hand side.
-        4. You can pause and play the animation, while it is animating.
+        4. Pause: You can pause the animation using the pause button, and play it again using the play button. 
         5. Change Colors: You can change the color of the animation while it is paused, running or when it's completed using the change button.
         6. Reset: Clicking on the reset button will reset the values of all field and return the circle to it's initial state.
 
