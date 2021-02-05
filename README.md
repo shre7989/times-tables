@@ -1,6 +1,7 @@
 
-
 **Instructions:**
+
+
     **_To start animating the circle:_**__
         1. Enter a valid value (0 < value < 360) in the jumpTo(which becomes your multiplicand) and totalpoints(total points on   circle)      
         2. Then Click the play button to begin animating the circle for your given times tables number.
