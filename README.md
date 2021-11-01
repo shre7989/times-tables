@@ -1,7 +1,9 @@
-**Instructions:**
+# Getting Started:
+An app that simulated a visual animation representing times tables using points around a circle.
 
 
-**    **_To start animating the circle:_**
+# Instructions:
+To start animating the circle:
 
         1. Enter a ****valid value (0 < value < 360)** **in the Jump To textfield (which becomes your multiplicand) and totalpoints textfield(total points on   circle)      
         2. Then Click the play button to begin animating the circle for your given times tables number.
@@ -11,20 +13,20 @@
         6. Reset: Clicking on the reset button will reset the values of all field and return the circle to it's initial state.
 
 
-_**      **Jump to your given timetables number directly without animating:**_
+Jump to your given timetables number directly without animating:
 
         1. Enter a **valid value (0 < value < 360)** in the Jump To textfield (which becomes your multiplicand) and totalpoints textfield(total points on   circle) 
         2. Click Jump to
         3. Change Colors: You can change colors by clicking the change button.
         4. Reset : Clicking on the reset button will reset the values of all field and return the circle to it's initial state.
 
-_**    **Favourites:**_
+Favourites:
 
         1. You can toggle between your favourite timetables pictures by scrolling through the favourites combo box which is located in the left-bottom of the screen.
         2. Change Colors: You can also change colors of your favourite Times tables pictures.
         3. Reset: Clicking on the reset button will reset the values of all field and return the circle to it's initial state.
 
-_**    **Increment slide:**_
+Increment slide:
 
         1. **Make Sure: 
             - The increment slide is greater than zero
