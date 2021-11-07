@@ -1,5 +1,5 @@
 # Getting Started:
-An app that simulated a visual animation representing times tables using points around a circle.
+An app that simulates a visual animation representing times tables using points around a circle.
 
 
 # Instructions:
