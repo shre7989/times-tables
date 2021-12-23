@@ -1,11 +1,12 @@
 # TimesTables
 
-![timestables](https://user-images.githubusercontent.com/55064602/147274257-d900afca-9413-41ad-952e-b47e2063b998.png)
+![timestables2](https://user-images.githubusercontent.com/55064602/147276150-9949dfb2-1ed6-462e-8d38-759fed4f36bc.png) ![timestables3](https://user-images.githubusercontent.com/55064602/147276165-74941ecf-6f0a-49fe-ab81-c7fe39731557.png)
+
 
 ## Project Description:
 An app that animates a cardoid simulation of multiplication tables using points around a circle.
 
-![timestables](https://user-images.githubusercontent.com/55064602/147274220-336d9bae-db6a-45e1-a59c-ba58558f3168.gif)
+![timestables](https://user-images.githubusercontent.com/55064602/147274220-336d9bae-db6a-45e1-a59c-ba58558f3168.gif) 
 
 
 ## Tutorial:
