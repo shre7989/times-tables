@@ -10,6 +10,10 @@ An app that animates a cardoid simulation of multiplication tables using points 
 
 
 ## Tutorial:
+
+![timestablesWindows](https://user-images.githubusercontent.com/55064602/147276465-ad18fd62-5631-4073-a775-f04606431d21.png)
+
+
 ### Animation:
 * Enter a valid value **(0 < value < 360)** in the Jump To textfield (which becomes your multiplicand) and totalpoints textfield(total points on   circle)      
 * Then Click the play button to begin animating the circle for your given times tables number.
